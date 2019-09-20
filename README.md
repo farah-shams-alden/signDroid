@@ -1,2 +1,2 @@
-# signDroid
-An AI system for detect an recognize sign language
+# SignDroid
+a Mobile application to convert the sign language concerned with medical matters for use in hospitals and laboratories ... to a written text, where the application takes pictures from the camera of the mobile phone and send them to a computer working as a client to process these images and analyze the movement in real time through a neural network (CNN , LSTM ) trained in some sign language movements and showing the test result as written text on the computer.
